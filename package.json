@@ -1,0 +1,24 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaackees/devOps-Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaackees/devOps-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/isaackees/devOps-Full-Stack#readme",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
